@@ -1,0 +1,25 @@
+{
+  "name": "debug-jstrace",
+  "version": "0.0.0",
+  "description": "Use both debug and jstrace as a single function",
+  "main": "index.js",
+  "dependencies": {
+    "debug": "~1.0.2",
+    "jstrace": "~0.3.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "debug",
+    "jstrace",
+    "tracing"
+  ],
+  "author": "Evan Lucas <evanlucas@me.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanlucas/debug-jstrace"
+  },
+  "homepage": "https://github.com/evanlucas/debug-jstrace",
+  "bugs": {
+    "url": "https://github.com/evanlucas/debug-jstrace/issues"
+  }
+}
